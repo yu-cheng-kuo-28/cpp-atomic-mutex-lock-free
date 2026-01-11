@@ -1,5 +1,9 @@
 # C++ Synchronization: Mutex / Atomic / Lock-Free (CAS)
 
+**C++ Series 05 | Mutex / Atomic / Lock-Free (CAS)** <br>
+*Hands-on snippets for replacing mutex with atomic — and where that replacement stops making sense* <br>
+https://medium.com/@yc-kuo/c-series-05-mutex-atomic-lock-free-cas-de7f6d3b7997
+
 Hands-on code examples demonstrating when to use **mutex**, **atomic**, and **lock-free** synchronization in C++. This repository accompanies the Medium article with runnable benchmarks so you can see the real performance differences on your own hardware.
 
 ## 🎯 What This Repo Teaches
